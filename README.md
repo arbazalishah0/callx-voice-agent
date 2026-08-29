@@ -2,7 +2,7 @@
 # CallX — Intelligent AI Calling Agent
 
 <p align="center">
-< img src="./assets/Callx Logo.png" alt="CallX Logo" width="180"></p>
+   <img src="./assets/Callx Logo.png" alt="CallX Logo" width="180"></p>
 
 <p align="center">
   <strong>Listen. Understand. Reason. Speak. Act.</strong>
