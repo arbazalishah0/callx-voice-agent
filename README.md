@@ -1,11 +1,16 @@
-
 # CallX — Intelligent AI Calling Agent
 
 <p align="center">
-   <img src="./assets/Callx Logo.png" alt="CallX Logo" width="180"></p>
+  <img src="./assets/Callx Logo.png" alt="CallX Logo" width="180">
+</p>
 
 <p align="center">
   <strong>Listen. Understand. Reason. Speak. Act.</strong>
+</p>
+
+<p align="center">
+  An intelligent AI voice agent designed to conduct real-time conversations,
+  understand user intent, reason dynamically, and perform authorized actions.
 </p>
 
 ## Overview
