@@ -98,7 +98,7 @@ The repository is organized into separate components for the frontend, backend, 
 To run CallX locally, clone the repository and install the required dependencies. Make sure that the required runtime environment, database, AI credentials, speech-processing credentials, text-to-speech credentials, and telephony credentials are available. Environment variables should be stored in a local `.env` file and must never be committed to the repository. After configuring the required services, start the frontend and backend according to the project's development configuration.
 
 ```bash
-git clone https://github.com/arbazalishah0/CallX.git
+git clone https://github.com/arbazalishah0/CallX.git](https://github.com/arbazalishah0/callx-voice-agent
 cd CallX
 npm install
 npm run dev
