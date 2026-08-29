@@ -2,7 +2,7 @@
 # CallX — Intelligent AI Calling Agent
 
 <p align="center">
-  <img src="./assets/callx-logo.png" alt="CallX Logo" width="180">
+  <img src="./assets/callx-logo.png" alt="Callx Logo.png" width="180">
 </p>
 
 <p align="center">
